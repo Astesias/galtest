@@ -1,0 +1,102 @@
+{
+  "name": "chapter1",
+  "version": "v1.0",
+  "author": "2264168148",
+  "lastUpdateTime": "2023-8-1",
+
+  "data": [
+    {
+      "loadType": 1,
+      "spriteName": "小巷",
+      "soundType": 2,
+      "soundPath": "bgm1"
+    },
+
+    {
+      "loadType": 2,
+      "speaker": "旁白",
+      "dialogContent": "在魔法都市的小巷里住着一群魔女。"
+    },
+    {
+      "loadType": 1,
+      "spriteName": "怠工"
+    },
+    {
+      "loadType": 2,
+      "characterNames": [ "null", "null", "薇儿" ],
+      "dialogContent": "zzz~zzz"
+    },
+    {
+      "loadType": 2,
+      "characterNames": [ "安黛尔", "null", "null" ],
+      "dialogContent": "b样的薇儿你tmd还在睡 (-10)",
+      "favorabilityChange": [ "安黛尔", "-10" ]
+    },
+
+    {
+      "loadType": 2,
+      "characterNames": [ "安黛尔", "null", "薇儿" ],
+      "speaker": "薇儿",
+      "dialogContent": "别狗叫,睡饱了才有力气干活 (-10)",
+      "favorabilityChange": [ "薇儿", "-10" ]
+    },
+
+    {
+      "loadType": 2,
+      "characterNames": [ "安黛尔", "null", "薇儿" ],
+      "speaker": "薇儿",
+      "dialogContent": "感觉五星不如六星"
+    },
+
+    {
+      "loadType": 2,
+      "characterNames": [ "安黛尔", "null", "薇儿" ],
+      "speaker": "安黛尔",
+      "dialogContent": "感觉不如...八星超魔导"
+    },
+
+    {
+      "loadType": 2,
+      "characterNames": [ "安黛尔", "null", "薇儿" ],
+      "speaker": "安黛尔 & 薇儿",
+      "dialogContent": "&*@#￥%&##……%&￥%11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111"
+    },
+
+    {
+      "loadType": 2,
+      "dialogContent": "6",
+      "speaker": "锻造"
+    },
+
+    {
+      "loadType": 1,
+      "spriteName": "杰作"
+    },
+    {
+      "loadType": 2,
+      "characterNames": [ "null", "null", "安黛尔" ],
+      "dialogContent": "我们这造的什么玩意"
+    },
+    {
+      "loadType": 2,
+      "characterNames": [ "null", "null", "海涅" ],
+      "dialogContent": "管他呢，又不是我用 (+10)",
+      "favorabilityChange": [ "海涅", "10" ]
+    },
+    {
+      "loadType": 2,
+      "characterNames": [ "null", "null", "薇儿" ],
+      "dialogContent": "奶奶的终于搞完了,睡觉去了 (+100)",
+      "favorabilityChange": [ "薇儿", "100" ]
+    },
+    {
+      "loadType": 2,
+      "speaker": "旁白",
+      "dialogContent": "END"
+    }
+  ]
+
+
+
+
+}

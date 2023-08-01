@@ -1,0 +1,4 @@
+repository "galtest@wechat_os_qy03hagezgrd_4_h-3ebxqgxk@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

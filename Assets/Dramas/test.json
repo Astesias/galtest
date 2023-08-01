@@ -1,0 +1,53 @@
+{
+  "name": "chapter_test",
+  "version": "v1.0",
+  "author": "2264168148",
+  "lastUpdateTime": "2023-7-31",
+
+  "data": [
+    {
+      "loadType": 1,
+      "spriteName": "Title",
+      "soundType": 2,
+      "soundPath": "bgm1"
+    },
+
+    {
+      "loadType": 2,
+      "characterNames": [ "c1", "c2", "c3" ],
+      "speaker": "c2",
+      "dialogContent": "Game Start"
+    },
+
+    {
+      "loadType": 2,
+      "characterNames": [ "-c1", "-c2", "-c3" ],
+      "dialogContent": "Hi",
+      "favorabilityChange": ["c1","10","c2","-10"]
+    },
+
+    {
+      "loadType": 2,
+      "characterNames": [ "c1", "-c2", "null" ],
+      "dialogContent": "Hello"
+    },
+
+    {
+      "loadType": 2,
+      "characterNames": [ "-c1", "null", "c3" ],
+      "dialogContent": "你好"
+    },
+
+    {
+      "loadType": 2,
+      "speaker": "旁白",
+      "dialogContent": "END",
+      "soundType": 2,
+      "soundPath": "bgm2"
+    }
+  ]
+
+
+
+
+}
